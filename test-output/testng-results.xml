@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15708" started-at="2019-06-19T07:09:07Z" finished-at="2019-06-19T07:09:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15708" started-at="2019-06-19T07:09:07Z" finished-at="2019-06-19T07:09:22Z">
+      <class name="FlightBookingTest">
+        <test-method status="PASS" signature="testThatResultsAppearForAOneWayJourney()[pri:0, instance:FlightBookingTest@51565ec2]" name="testThatResultsAppearForAOneWayJourney" duration-ms="15681" started-at="2019-06-19T12:39:07Z" finished-at="2019-06-19T12:39:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThatResultsAppearForAOneWayJourney -->
+      </class> <!-- FlightBookingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
